@@ -1,4 +1,4 @@
-# Individual-assignment-1
+# Datanettverk og skytjenester
 
 To  make  a  simple  chat  bot,  all  you  need  is  a  function  that  takes  a  string  as  input  (what  
 somebody  said)  and  returns  another  string  (the  bot's  response).  A  more  complex  bot  would  have  a  
